@@ -1,8 +1,5 @@
 hii, this is abc
 i am 10 years old
-<<<<<<< HEAD
 i am from usa
-=======
 i am from USA.
 i work for xyz.
->>>>>>> sub

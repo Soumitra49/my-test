@@ -1,5 +1,4 @@
 hii, this is abc
 i am 10 years old
 i am from USA.
-i work for xyz
-i am learning java.
+i work for xyz.

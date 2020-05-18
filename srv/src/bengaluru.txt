@@ -1,10 +1,6 @@
-<<<<<<< Updated upstream
 karnataka = 2
 karnataka = 3
-karnataka = 4
 karnataka = 111
 karnataka = 222
 karnataka = 333
-=======
-karnataka = 10.
->>>>>>> Stashed changes
+

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 karnataka = 10
-=======
-karnataka = 1
->>>>>>> 35353a1322b6ee8089e8bcc67a1a2e4927d35a4e

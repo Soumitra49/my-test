@@ -1,5 +1,9 @@
 karnataka = 2
 karnataka = 3
+<<<<<<< HEAD
+=======
+karnataka = 4
+>>>>>>> 033403285f5e8f12fa026b5bcf35fa5e8c0acd59
 karnataka = 111
 karnataka = 222
 karnataka = 333

@@ -1,4 +1,4 @@
-karnataka = 0
+karnataka = 1
 karnataka = 001
 karnataka = 111
 karnataka = 222
